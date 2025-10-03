@@ -28,7 +28,6 @@ MODEL CONFIGURATION SUMMARY
 3. **Strong regularization** (dropout + drop_path + weight_decay + label smoothing) prevented overfitting
 4. **Longer training** (50 epochs) allowed gradual convergence to 98%+
 5. **Pre-trained weights** essential - achieved 95%+ in first epoch
-
 ============================================================
 
 **Q2: Text-Driven Image & Video Segmentation with SAM 2**
