@@ -35,7 +35,6 @@ text_prompt="person, car",
 confidence_threshold=0.25,
 output_path=str(OUTPUT_DIR / "result.jpg"))
 
-text
 
 **Notes:**  
 - Specific prompts with clear images work best.  
